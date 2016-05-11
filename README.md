@@ -11,7 +11,7 @@ gh-pages branch and create a new gh-pages branch from master. (`git branch gh-pa
 Now search for "CUSTOM" in the index.html file. Those comments tell you what to replace to get your custom coffee-based
 donation page! It will be available at http://YOURUSERNAME.github.io/coffeedonate/ - Awesomeness!
 
-See my coffeedonate page at: http://omnidan.github.io/coffeedonate/
+See my coffeedonate page at: http://denzuko.github.io/coffeedonate/
 
 License
 -------
